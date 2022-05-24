@@ -1,5 +1,5 @@
 ```
-=======================MINIGREP=======================
+====================MINIGREP====================
 A simple version of grep, written in Rust.
 ================================================
 Usage: minigrep [query] [filename] [options]
